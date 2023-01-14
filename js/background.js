@@ -20,7 +20,7 @@ particlesJS('particles-js',   {
           "nb_sides": 5
         },
         "image": {
-          "src": "../assets/arrow_green.gif",
+          "src": "assets/arrow_green.gif",
           "width": 1000,
           "height": 1000
         }
