@@ -1,4 +1,5 @@
 Izhak Hamidi Portfolio
+
 Welcome to my portfolio website! This site showcases my art and photography, and serves as a platform for me to share my work with the world.
 
 Technologies Used
