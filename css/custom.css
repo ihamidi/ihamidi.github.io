@@ -57,3 +57,20 @@
   0% { opacity: 0; }
   100% { opacity: 1; }
 }
+
+.button-animation:hover
+{
+  animation-duration: 2s;
+  animation-name: animate-pulse;
+  animation-delay: 0s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes animate-pulse {
+  0% { border-radius: 0px; }
+  30% {  transform: scale(1.05,1.05); }
+  50% {  }
+  70% { border-radius: 0px; }
+  100% { border-radius: 0px; }
+}
